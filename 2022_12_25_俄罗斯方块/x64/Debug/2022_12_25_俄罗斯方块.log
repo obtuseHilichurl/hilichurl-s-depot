@@ -1,0 +1,28 @@
+﻿  俄罗斯方块_game.c
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(83,10): warning C4244: “=”: 从“time_t”转换到“clock_t”，可能丢失数据
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(167,11): warning C4244: “=”: 从“time_t”转换到“clock_t”，可能丢失数据
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(168,14): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(506,30): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(503): warning C4715: “is_change”: 不是所有的控件路径都返回值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(894): warning C4716: “hfigure_1”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(907): warning C4716: “hfigure_2”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(922): warning C4716: “hfigure_3”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(935): warning C4716: “hfigure_4”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(947): warning C4716: “hfigure_5”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(955): warning C4716: “hfigure_6”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(966): warning C4716: “hfigure_7”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(977): warning C4716: “hfigure_8”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(985): warning C4716: “hfigure_9”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(997): warning C4716: “hfigure_10”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(1006): warning C4716: “hfigure_11”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(1018): warning C4716: “hfigure_12”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(1029): warning C4716: “hfigure_13”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(1040): warning C4716: “hfigure_14”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(1050): warning C4716: “hfigure_15”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(1059): warning C4716: “hfigure_16”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(1070): warning C4716: “hfigure_17”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(1080): warning C4716: “hfigure_18”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(1089): warning C4716: “hfigure_19”: 必须返回一个值
+C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\2022_12_25_俄罗斯方块\俄罗斯方块_game.c(1099): warning C4716: “hfigure_20”: 必须返回一个值
+LINK : warning LNK4044: 无法识别的选项“/lwinmm”；已忽略
+  2022_12_25_俄罗斯方块.vcxproj -> C:\Users\邱仔\Desktop\2022_12_25_俄罗斯方块\x64\Debug\2022_12_25_俄罗斯方块.exe
